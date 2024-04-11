@@ -1,0 +1,10 @@
+﻿ [
+  {"id": 1, "name": "Marcus", "number": "070123123", "city": "Hjo", "discName" : "K1 Reko", "image" : "https://discsport.se/img/disc/kastaplast/k3reko_sm.webp", "brand": "Kastaplast"  },
+  {"id": 2, "name": "Kalle", "number": "070123123", "city": "Hjo", "discName" : "K1 Lots ", "image" : "https://discsport.se/img/disc/kastaplast/k1lots.webp", "brand": "Kastaplast"  },
+  {"id": 3, "name": "Adam", "number": "070123123", "city": "Hjo", "discName" : "K1 Stig", "image" : "https://discsport.se/img/disc/kastaplast/k1-stig.webp", "brand": "Kastaplast"  },
+  {"id": 4, "name": "Carl", "number": "070123123", "city": "Hjo", "discName" : "K1 Falk", "image" : "https://discsport.se/img/disc/kastaplast/k1falk.webp", "brand": "Kastaplast"  }, 
+   {"id": 5, "name": "Erik", "number": "070123123", "city": "Hjo", "discName" : "K1 Kaxe Z", "image" : "https://discsport.se/img/disc/kastaplast/k1kaxez.webp", "brand": "Kastaplast"  }
+ ]
+
+
+ 

@@ -1,0 +1,9 @@
+﻿[
+    {"id" : 1 , "name" : "K1 Reko", "image" : "https://discsport.se/img/disc/kastaplast/k3reko_sm.webp", "brand": "Kastaplast"},
+    {"id" : 2 ,"name" : "K1 Lots ", "image" : "https://discsport.se/img/disc/kastaplast/k1lots.webp", "brand": "Kastaplast"},
+    {"id" : 3 ,"name" : "K1 Stig", "image" : "https://discsport.se/img/disc/kastaplast/k1-stig.webp", "brand": "Kastaplast"},
+    {"id" : 4 ,"name" : "K1 Falk", "image" : "https://discsport.se/img/disc/kastaplast/k1falk.webp", "brand": "Kastaplast"},
+    {"id" : 5 ,"name" : "K3 Berg", "image" : "https://discsport.se/img/disc/kastaplast/k3berg.webp", "brand": "Kastaplast"},
+    {"id" : 6 ,"name" : "K1 Svea", "image" : "https://discsport.se/img/disc/kastaplast/svea-k1.webp", "brand": "Kastaplast"},
+    {"id" : 7 ,"name" : "K1 Kaxe Z", "image" : "https://discsport.se/img/disc/kastaplast/k1kaxez.webp", "brand": "Kastaplast"}
+]
